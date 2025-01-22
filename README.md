@@ -1,10 +1,10 @@
 # List_Of_Oppo_Users
 
-Project Title: Analysis of Oppo Smartphone Users in Coimbatore
+**Project Title:** Analysis of Oppo Smartphone Users in Coimbatore
 
 Project Overview: This project aims to analyze the market presence and user demographics of Oppo smartphone users in Coimbatore, Tamil Nadu. By examining available data, the project seeks to understand Oppo's market share, growth trends, and customer satisfaction levels in the region.
 
-Key Features:
+**Key Features:**
 
 Market Share Analysis: Evaluate Oppo's market share in Coimbatore over recent years.
 Growth Trends: Identify and analyze growth patterns and factors contributing to Oppo's performance in the local market.
